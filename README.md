@@ -1,5 +1,5 @@
 # MPFT-Framework
-Official implementation of the paper “Multi-Policy Pareto Front Tracking Based Online and Offline Multi-Objective Reinforcement Learning”
+Official implementation of the MPFT framework.
 Before publication, we will only openly share some of the source code (MPFT-MOTD7 and benchmark PA2D-MORL).
 
 ## Usage
